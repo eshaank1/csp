@@ -1,15 +1,29 @@
 ---
 layout: default
-title: Student Blog
+title: Eshaan Kumar's CSP Student Blog
 ---
 
+## Eshaan Kumar's CSP Student Blog 
+This is about my journey. Take a look around!
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## About Me
+My name is Eshaan Kumar. I am from San Diego, California. My family is from India. I enjoy watching movies, listening to music, watching football, and playing fantasy football. I also play tennis. I also enjoy spending time with my family and friends. I am a Junior at Del Norte High School.
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About Me Photo
+![Alt text](images/aboutme.jpg)
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## Class Schedule
+Period 1: AP English Language
+
+Period 2: AP Calculus BC
+
+Period 3: US History
+
+Period 4: AP Physics C Mechanics
+
+Period 5: AP Computer Science Principles
+
+## Agile Mindset
+I possess an agile mindset as I love collaboration and working in pairs/teams, as well as helping and receiving help from others. I am also determined and will work hard to do well in this class and I am willing to put the time in.
+
+## Snake
