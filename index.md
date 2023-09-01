@@ -25,5 +25,3 @@ Period 5: AP Computer Science Principles
 
 ## Agile Mindset
 I possess an agile mindset as I love collaboration and working in pairs/teams, as well as helping and receiving help from others. I am also determined and will work hard to do well in this class and I am willing to put the time in.
-
-## Snake
