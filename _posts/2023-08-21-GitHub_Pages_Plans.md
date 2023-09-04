@@ -25,3 +25,10 @@ Learning outcome. Building a personal and running GitHub Pages.
 - Slack Account, install the App on Laptop and/or phone, get used to reading announcements. Slack is the tool that we will use for messaging, we have been averaging 1000s of essages each year.
 - VSCode is the code editor we will be using in this class.  VSCode is more than and editor, this type of tool is often called an Interactive Development Environment (IDE). 
 - Run make commands to build and test blog locally, before pushing changes to GitHub pages.
+
+<style> 
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+h1{ text-align: center; font-size: 50px; color: #0352fc; font-family: 'Roboto', serif;}
+h2{ text-align: left; font-size: 18px; color: #0352fc;}
+body{ text-align: left; font-size: 15px; font-family: 'Roboto', serif; background: black; }
+</style>
