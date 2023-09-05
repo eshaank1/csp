@@ -2,4 +2,4 @@
 
 My name is Eshaan Kumar, and I am a junior at Del Norte High School. This is the repository for my personal CSP Blog.
 
-Link to repository: https://github.com/eshaank1/csp
+Link to my website: https://eshaank1.github.io/csp/
