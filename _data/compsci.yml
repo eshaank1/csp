@@ -20,7 +20,12 @@ Unit4:
   start: 13
   end: 14
 Unit5:
-  title: CPT Project
+  title: CPT Design/Development
   description: Work on CPT Project and Warmup.
   start: 15
   end: 21
+Unit6:
+  title: CPT Video/Presentation
+  description: Present CPT Project.
+  start: 22
+  end: 24
